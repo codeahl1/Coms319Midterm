@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 999,
+    "image": "images/electronics.jpeg",
+    "description": "That's an expensive laptop! You better know <em>it's gonna be great</em>. With this laptop, you can truly do it all. Oh, by the way Connor, the description field uses HTML formatting, so be sure to escape html characters..."
+  },
+  {
+    "id": 2,
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 49,
+    "image": "images/furniture.jpeg",
+    "description": "Quite the chair, huh? I don't want to say that this is the <strong>BEST</strong> chair ever, but I mean it is pretty much the best..."
+  },
+  {
+    "id": 3,
+    "name": "T-shirt",
+    "category": "Fashion",
+    "price": 19,
+    "image": "images/tshirt.jpeg",
+    "description": "T-shirt for cool people, so if you are as cool as the model displaying this T-shirt, then this is perfect for you."
+  },
+  {
+    "id": 4,
+    "name": "Coffee Maker",
+    "category": "Food/Beverage",
+    "price": 89,
+    "image": "images/coffee_maker.jpeg",
+    "description": "What a great way to start your new caffine addiction."
+  },
+  {
+    "id": 5,
+    "name": "Drill",
+    "category": "DIY/Hardware Items",
+    "price": 129,
+    "image": "images/drill.jpeg",
+    "description": "WARNING: This is not real. This is only a drill. This is merely a training exercise."
+  },
+  {
+    "id": 6,
+    "name": "Shampoo",
+    "category": "Personal Care",
+    "price": 9,
+    "image": "images/shampoo.jpeg",
+    "description": "Shampoo, for those who need. <br>16 in 1, with uses including drain unclogger and a motor oil alternative."
+  },
+  {
+    "id": 7,
+    "name": "Soccer Ball",
+    "category": "Sports",
+    "price": 29,
+    "image": "images/sports.jpeg",
+    "description": "This one's for you sports fans."
+  },
+  {
+    "id": 8,
+    "name": "Tent",
+    "category": "Outside",
+    "price": 199,
+    "image": "images/outdoor.jpeg",
+    "description": "This tent included built in bear attractant. Yes you read that correctly, you will soon be cuddling your new 800lb best friend after a night in this tent."
+  },
+  {
+    "name": "Wooden Desk",
+    "price": 44.99,
+    "category": "Furniture",
+    "description": "This is a good desk. Who's a good desk? You are.",
+    "image": "./images/furniture.jpeg",
+    "id": 9
+  },
+  {
+    "name": "Standing Desk",
+    "price": 140,
+    "category": "Furniture",
+    "description": "This standing desk sure can make you stand. But it can also tempt you to sit on it while sitting at another one. This has true MegaDesk™ potential.",
+    "image": "./images/furniture.jpeg",
+    "id": 10
+  },
+  {
+    "name": "Desktop Computer",
+    "price": 899.99,
+    "category": "Electronics",
+    "description": "This is no ordinary beefy computer. It's so beefy it needs a beefy user to operate. It asks YOU to calculate things while it watches YouTube all day.",
+    "image": "./images/electronics.jpeg",
+    "id": 11
+  },
+  {
+    "name": "Staples",
+    "price": 299.99,
+    "category": "DIY/Hardware Items",
+    "description": "STAPLES! STAPLES! STAPLES! This box of staples is packed with more staples than you can possibly staple! Staple everything in sight with these staple-perfect staples—staple papers, staple documents, staple your other staples to even more staples. Staple your staple to the staple, then grab another staple and staple it again. Staples on staples on staples!",
+    "image": "./images/drill.jpeg",
+    "id": 12
+  },
+  {
+    "name": "Deluxe Cheeseburger",
+    "price": 3.99,
+    "category": "Food/Beverage",
+    "description": "You wouldn't order a cheeseburger for delivery, would you? Well, now you can! This one is even <em>deluxe</em>. Truly amazing, the world we live in.",
+    "image": "./images/foodbeverage.jpg",
+    "id": 13
+  }
+]
